@@ -1,14 +1,17 @@
-body{background-color: rgb(228, 176, 98);}
+body{
+    background-color: rgb(228, 176, 98);}
+
+img{
+
+    width: 500px;
+    padding-top:  100px;}
 
 
-img{width: 570px;
-padding-left: 100px;
-padding: top 100px; px;}
+h1{
+    color: rgb(0, 0, 0);} 
 
 
-h1{color: rgb(0, 0, 0);} 
-
-
-table{margin: left 350px;pxpx;width: 700px;}    
+table{
+width: 700px;}    
 
 
